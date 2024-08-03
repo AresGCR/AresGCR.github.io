@@ -1,6 +1,6 @@
 ---
 title:"Week III"
-date: 2024-09-02 00:00:00 +0800
+date: 2024-08-02 00:00:00 +0800
 categories:[Week III]
 ---
 # Permutations
